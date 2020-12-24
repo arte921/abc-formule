@@ -1,5 +1,5 @@
 fn main() {
-    for x in nulpunten(3.0, 4.0, -1.0) {
+    for x in nulpunten(1.0, 0.0, 0.0) {
         println!("{:.2}", x);
     }
 }
